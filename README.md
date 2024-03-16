@@ -41,5 +41,4 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 This project is licensed under the MIT License.
 
 ## Contact
-
-For inquiries or feedback, contact (mailto:ijaytelgote@gmail.com).
+For inquiries or feedback regarding the server-side Python code, please contact (mailto:ijaytelgote@gmail.com).
